@@ -1,0 +1,24 @@
+{
+  "name": "sanhei-bills2-backups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "firebase-admin": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaselmer/sanhei-bills2-backups.git"
+  },
+  "author": "lukas.elmer@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaselmer/sanhei-bills2-backups/issues"
+  },
+  "homepage": "https://github.com/lukaselmer/sanhei-bills2-backups#readme"
+}
